@@ -3,8 +3,6 @@
 import { FormEvent } from 'react'
 import { useRouter } from 'next/navigation'
 
-// https://stackoverflow.com/questions/74421327/nextrouter-was-not-mounted-next-js
-
 export default function Home() {
   async function onSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault()
