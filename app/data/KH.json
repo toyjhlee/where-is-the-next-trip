@@ -1,0 +1,58 @@
+[
+  {
+    "countryName": {
+      "en": "Cambodia",
+      "ko": "캄보디아"
+    },
+    "countryCode": "KH",
+    "cityName": {
+      "en": "Phnom Penh",
+      "ko": "프놈펜"
+    },
+    "cityIATACode": "PNH",
+    "dryMonths": [11, 12, 1, 2, 3, 4],
+    "rainyMonths": [5, 6, 7, 8, 9, 10]
+  },
+  {
+    "countryName": {
+      "en": "Cambodia",
+      "ko": "캄보디아"
+    },
+    "countryCode": "KH",
+    "cityName": {
+      "en": "Siem Reap",
+      "ko": "씨엠립"
+    },
+    "cityIATACode": "REP",
+    "dryMonths": [11, 12, 1, 2, 3, 4],
+    "rainyMonths": [5, 6, 7, 8, 9, 10]
+  },
+  {
+    "countryName": {
+      "en": "Cambodia",
+      "ko": "캄보디아"
+    },
+    "countryCode": "KH",
+    "cityName": {
+      "en": "Sihanoukville",
+      "ko": "시하누크빌"
+    },
+    "cityIATACode": "KOS",
+    "dryMonths": [11, 12, 1, 2, 3, 4],
+    "rainyMonths": [5, 6, 7, 8, 9, 10]
+  },
+  {
+    "countryName": {
+      "en": "Cambodia",
+      "ko": "캄보디아"
+    },
+    "countryCode": "KH",
+    "cityName": {
+      "en": "Battambang",
+      "ko": "바딤팡"
+    },
+    "cityIATACode": "BBM",
+    "dryMonths": [11, 12, 1, 2, 3, 4],
+    "rainyMonths": [5, 6, 7, 8, 9, 10]
+  }
+]

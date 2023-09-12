@@ -1,0 +1,72 @@
+[
+  {
+    "countryName": {
+      "en": "Laos",
+      "ko": "라오스"
+    },
+    "countryCode": "LA",
+    "cityName": {
+      "en": "Luang Prabang",
+      "ko": "루앙프라방"
+    },
+    "cityIATACode": "LPQ",
+    "dryMonths": [11, 12, 1, 2],
+    "rainyMonths": [5, 6, 7, 8, 9, 10]
+  },
+  {
+    "countryName": {
+      "en": "Laos",
+      "ko": "라오스"
+    },
+    "countryCode": "LA",
+    "cityName": {
+      "en": "Vang Vieng",
+      "ko": "바옌나캉"
+    },
+    "cityIATACode": "VNG",
+    "dryMonths": [11, 12, 1, 2],
+    "rainyMonths": [5, 6, 7, 8, 9, 10]
+  },
+  {
+    "countryName": {
+      "en": "Laos",
+      "ko": "라오스"
+    },
+    "countryCode": "LA",
+    "cityName": {
+      "en": "Vientiane",
+      "ko": "비엔티안"
+    },
+    "cityIATACode": "VTE",
+    "dryMonths": [11, 12, 1, 2],
+    "rainyMonths": [5, 6, 7, 8, 9, 10]
+  },
+  {
+    "countryName": {
+      "en": "Laos",
+      "ko": "라오스"
+    },
+    "countryCode": "LA",
+    "cityName": {
+      "en": "Savannakhet",
+      "ko": "사바나켓"
+    },
+    "cityIATACode": "ZVK",
+    "dryMonths": [11, 12, 1, 2],
+    "rainyMonths": [5, 6, 7, 8, 9, 10]
+  },
+  {
+    "countryName": {
+      "en": "Laos",
+      "ko": "라오스"
+    },
+    "countryCode": "LA",
+    "cityName": {
+      "en": "Pakse",
+      "ko": "팍세"
+    },
+    "cityIATACode": "PKZ",
+    "dryMonths": [11, 12, 1, 2],
+    "rainyMonths": [5, 6, 7, 8, 9, 10]
+  }
+]

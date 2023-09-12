@@ -1,0 +1,44 @@
+[
+  {
+    "countryName": {
+      "en": "Indonesia",
+      "ko": "인도네시아"
+    },
+    "countryCode": "ID",
+    "cityName": {
+      "en": "Jakarta",
+      "ko": "자카르타"
+    },
+    "cityIATACode": "CGK",
+    "dryMonths": [6, 7, 8, 9],
+    "rainyMonths": [1, 2, 3, 4, 5, 10, 11, 12]
+  },
+  {
+    "countryName": {
+      "en": "Indonesia",
+      "ko": "인도네시아"
+    },
+    "countryCode": "ID",
+    "cityName": {
+      "en": "Bali",
+      "ko": "발리"
+    },
+    "cityIATACode": "DPS",
+    "dryMonths": [5, 6, 7, 8, 9],
+    "rainyMonths": [1, 2, 3, 4, 10, 11, 12]
+  },
+  {
+    "countryName": {
+      "en": "Indonesia",
+      "ko": "인도네시아"
+    },
+    "countryCode": "ID",
+    "cityName": {
+      "en": "Yogyakarta",
+      "ko": "요기아카르타"
+    },
+    "cityIATACode": "JOG",
+    "dryMonths": [6, 7, 8, 9],
+    "rainyMonths": [1, 2, 3, 4, 5, 10, 11, 12]
+  }
+]

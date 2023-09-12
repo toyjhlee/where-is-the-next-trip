@@ -1,0 +1,58 @@
+[
+  {
+    "countryName": {
+      "en": "Philippines",
+      "ko": "필리핀"
+    },
+    "countryCode": "PH",
+    "cityName": {
+      "en": "Manila",
+      "ko": "마닐라"
+    },
+    "cityIATACode": "MNL",
+    "dryMonths": [1, 2, 3, 4],
+    "rainyMonths": [5, 6, 7, 8, 9, 10, 11, 12]
+  },
+  {
+    "countryName": {
+      "en": "Philippines",
+      "ko": "필리핀"
+    },
+    "countryCode": "PH",
+    "cityName": {
+      "en": "Cebu",
+      "ko": "세부"
+    },
+    "cityIATACode": "CEB",
+    "dryMonths": [1, 2, 3, 4],
+    "rainyMonths": [5, 6, 7, 8, 9, 10, 11, 12]
+  },
+  {
+    "countryName": {
+      "en": "Philippines",
+      "ko": "필리핀"
+    },
+    "countryCode": "PH",
+    "cityName": {
+      "en": "Boracay",
+      "ko": "보라카이"
+    },
+    "cityIATACode": "MPH",
+    "dryMonths": [1, 2, 3, 4],
+    "rainyMonths": [5, 6, 7, 8, 9, 10, 11, 12]
+  },
+  {
+    "countryName": {
+      "en": "Philippines",
+      "ko": "필리핀"
+    },
+    "countryCode": "PH",
+    "cityName": {
+      "en": "Palawan",
+      "ko": "팔라완"
+    },
+    "cityIATACode": "PPS",
+    "dryMonths": [1, 2, 3, 4, 5],
+    "rainyMonths": [6, 7, 8, 9, 10, 11, 12]
+  }
+]

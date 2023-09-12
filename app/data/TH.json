@@ -1,0 +1,72 @@
+[
+  {
+    "countryName": {
+      "en": "Thailand",
+      "ko": "타이"
+    },
+    "countryCode": "TH",
+    "cityName": {
+      "en": "Bangkok",
+      "ko": "방콕"
+    },
+    "cityIATACode": "BKK",
+    "dryMonths": [11, 12, 1, 2],
+    "rainyMonths": [5, 6, 7, 8, 9, 10]
+  },
+  {
+    "countryName": {
+      "en": "Thailand",
+      "ko": "타이"
+    },
+    "countryCode": "TH",
+    "cityName": {
+      "en": "Phuket",
+      "ko": "푸켓"
+    },
+    "cityIATACode": "HKT",
+    "dryMonths": [11, 12, 1, 2],
+    "rainyMonths": [5, 6, 7, 8, 9, 10]
+  },
+  {
+    "countryName": {
+      "en": "Thailand",
+      "ko": "타이"
+    },
+    "countryCode": "TH",
+    "cityName": {
+      "en": "Chiang Mai",
+      "ko": "치앙마이"
+    },
+    "cityIATACode": "CNX",
+    "dryMonths": [11, 12, 1, 2],
+    "rainyMonths": [5, 6, 7, 8, 9, 10]
+  },
+  {
+    "countryName": {
+      "en": "Thailand",
+      "ko": "타이"
+    },
+    "countryCode": "TH",
+    "cityName": {
+      "en": "Pattaya",
+      "ko": "파타야"
+    },
+    "cityIATACode": "PYX",
+    "dryMonths": [11, 12, 1, 2],
+    "rainyMonths": [5, 6, 7, 8, 9, 10]
+  },
+  {
+    "countryName": {
+      "en": "Thailand",
+      "ko": "타이"
+    },
+    "countryCode": "TH",
+    "cityName": {
+      "en": "Hua Hin",
+      "ko": "화힌"
+    },
+    "cityIATACode": "HHQ",
+    "dryMonths": [11, 12, 1, 2],
+    "rainyMonths": [5, 6, 7, 8, 9, 10]
+  }
+]

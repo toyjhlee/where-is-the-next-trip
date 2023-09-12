@@ -1,0 +1,72 @@
+[
+  {
+    "countryName": {
+      "en": "Vietnam",
+      "ko": "베트남"
+    },
+    "countryCode": "VN",
+    "cityName": {
+      "en": "Hanoi",
+      "ko": "하노이"
+    },
+    "cityIATACode": "HAN",
+    "dryMonths": [11, 12, 1, 2, 3],
+    "rainyMonths": [4, 5, 6, 7, 8, 9, 10]
+  },
+  {
+    "countryName": {
+      "en": "Vietnam",
+      "ko": "베트남"
+    },
+    "countryCode": "VN",
+    "cityName": {
+      "en": "Ho Chi Minh City",
+      "ko": "호치민"
+    },
+    "cityIATACode": "SGN",
+    "dryMonths": [12, 1, 2, 3, 4],
+    "rainyMonths": [5, 6, 7, 8, 9, 10, 11]
+  },
+  {
+    "countryName": {
+      "en": "Vietnam",
+      "ko": "베트남"
+    },
+    "countryCode": "VN",
+    "cityName": {
+      "en": "Da Nang",
+      "ko": "다낭"
+    },
+    "cityIATACode": "DAD",
+    "dryMonths": [1, 2, 3],
+    "rainyMonths": [4, 5, 6, 7, 8, 9, 10, 11, 12]
+  },
+  {
+    "countryName": {
+      "en": "Vietnam",
+      "ko": "베트남"
+    },
+    "countryCode": "VN",
+    "cityName": {
+      "en": "Hue",
+      "ko": "휘"
+    },
+    "cityIATACode": "HUI",
+    "dryMonths": [1, 2, 3],
+    "rainyMonths": [4, 5, 6, 7, 8, 9, 10, 11, 12]
+  },
+  {
+    "countryName": {
+      "en": "Vietnam",
+      "ko": "베트남"
+    },
+    "countryCode": "VN",
+    "cityName": {
+      "en": "Nha Trang",
+      "ko": "나짱"
+    },
+    "cityIATACode": "CXR",
+    "dryMonths": [1, 2, 3, 4],
+    "rainyMonths": [5, 6, 7, 8, 9, 10, 11, 12]
+  }
+]
