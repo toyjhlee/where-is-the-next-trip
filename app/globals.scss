@@ -1,0 +1,7 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+header#nav {
+  @apply w-full bg-blue-600 px-3 py-2 text-center text-white;
+}

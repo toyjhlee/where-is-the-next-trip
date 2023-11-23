@@ -13,6 +13,10 @@ export default function CombinedData(): WeatherData[] {
   return combinedData
 }
 
+export function cityByCountry(): WeatherData[][] {
+  return [KH, VN, PH, ID, MY, LA, MM, TH]
+}
+
 type WeatherData = {
   countryName: {
     en: string

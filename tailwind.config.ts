@@ -16,6 +16,10 @@ const config: Config = {
       },
     },
   },
-  plugins: [],
+  plugins: [
+    require('tailwindcss'),
+    require('autoprefixer'),
+    require('postcss-nested'),
+  ],
 }
 export default config
