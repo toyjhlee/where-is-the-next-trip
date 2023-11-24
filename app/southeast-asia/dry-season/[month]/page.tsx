@@ -39,10 +39,9 @@ export default function Page({ params }: { params: PageParams }) {
   )
 }
 
-export async function generateStaticParams({
-  params: { month },
-}: {
-  params: { month: string }
-}) {
-  return [month]
+// 하지만, app/ 디렉토리 내에서 getStaticProps나 getStaticPaths와 같은 데이터 페칭 함수를 직접 사용하는 것은 지원되지 않습니다.
+export function generateStaticParams() {
+  return Array.from({ length: 12 }, (_, i) => ({
+    month: (i + 1).toString(),
+  }))
 }
