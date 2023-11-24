@@ -38,3 +38,11 @@ export default function Page({ params }: { params: PageParams }) {
     </>
   )
 }
+
+export async function generateStaticParams({
+  params: { month },
+}: {
+  params: { month: string }
+}) {
+  return [month]
+}
