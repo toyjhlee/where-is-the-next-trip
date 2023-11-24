@@ -5,7 +5,7 @@ type PageParams = {
 }
 
 // 동남아 8월 여행지 건기
-export default function page({ params }: { params: PageParams }) {
+export default function Page({ params }: { params: PageParams }) {
   const listArr = cityByCountry()
 
   const currentMonth = Number(params.month)
