@@ -1,4 +1,5 @@
 import { WeatherData, cityByCountry } from '../../../data'
+import Link from 'next/link'
 
 type PageParams = {
   month: string
@@ -35,6 +36,11 @@ export default function Page({ params }: { params: PageParams }) {
           </article>
         )
       })}
+
+      <article className="mt-10">
+        <header className="text-lg font-semibold">다른 월 선택</header>
+        <MonthSelector />
+      </article>
     </>
   )
 }
@@ -44,4 +50,16 @@ export function generateStaticParams() {
   return Array.from({ length: 12 }, (_, i) => ({
     month: (i + 1).toString(),
   }))
+}
+
+const MonthSelector = () => {
+  return [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12].map((n: number) => {
+    return (
+      <Link
+        key={n}
+        href={`/southeast-asia/dry-season/${n}`}
+        className="mr-2"
+      >{`${n}월`}</Link>
+    )
+  })
 }
