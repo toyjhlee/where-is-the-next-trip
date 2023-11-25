@@ -32,7 +32,9 @@ export default function Page({ params }: { params: PageParams }) {
                   </li>
                 )
               })}
-              {showList.length === 0 && <li>추천 여행지 없음</li>}
+              {showList.length === 0 && (
+                <li className="text-sm text-gray-500">건기인 도시 없음</li>
+              )}
             </ul>
           </article>
         )
