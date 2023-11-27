@@ -1,72 +1,41 @@
-[
-  {
+{
+  "country": {
     "countryName": {
       "en": "Laos",
       "ko": "라오스"
     },
-    "countryCode": "LA",
-    "cityName": {
-      "en": "Luang Prabang",
-      "ko": "루앙프라방"
-    },
-    "cityIATACode": "LPQ",
-    "dryMonths": [11, 12, 1, 2],
-    "rainyMonths": [5, 6, 7, 8, 9, 10]
+    "countryCode": "LA"
   },
-  {
-    "countryName": {
-      "en": "Laos",
-      "ko": "라오스"
+  "cityList": [
+    {
+      "cityName": {
+        "ko": "비엔티안",
+        "en": "Vientiane"
+      },
+      "cityDesc": "라오스의 수도이자 가장 큰 도시로, 불교 사원과 식민지 시대 건축물이 어우러진 역사적인 곳",
+      "regionCode": "Vientiane",
+      "dryMonths": [11, 12, 1, 2, 3],
+      "rainyMonths": [4, 5, 6, 7, 8, 9, 10]
     },
-    "countryCode": "LA",
-    "cityName": {
-      "en": "Vang Vieng",
-      "ko": "바옌나캉"
+    {
+      "cityName": {
+        "ko": "루앙프라방",
+        "en": "Luang Prabang"
+      },
+      "cityDesc": "유네스코 세계 문화유산에 등재된 도시로, 전통적인 라오스 건축과 자연경관이 조화를 이루는 곳",
+      "regionCode": "Luang_Prabang",
+      "dryMonths": [11, 12, 1, 2, 3],
+      "rainyMonths": [4, 5, 6, 7, 8, 9, 10]
     },
-    "cityIATACode": "VNG",
-    "dryMonths": [11, 12, 1, 2],
-    "rainyMonths": [5, 6, 7, 8, 9, 10]
-  },
-  {
-    "countryName": {
-      "en": "Laos",
-      "ko": "라오스"
-    },
-    "countryCode": "LA",
-    "cityName": {
-      "en": "Vientiane",
-      "ko": "비엔티안"
-    },
-    "cityIATACode": "VTE",
-    "dryMonths": [11, 12, 1, 2],
-    "rainyMonths": [5, 6, 7, 8, 9, 10]
-  },
-  {
-    "countryName": {
-      "en": "Laos",
-      "ko": "라오스"
-    },
-    "countryCode": "LA",
-    "cityName": {
-      "en": "Savannakhet",
-      "ko": "사바나켓"
-    },
-    "cityIATACode": "ZVK",
-    "dryMonths": [11, 12, 1, 2],
-    "rainyMonths": [5, 6, 7, 8, 9, 10]
-  },
-  {
-    "countryName": {
-      "en": "Laos",
-      "ko": "라오스"
-    },
-    "countryCode": "LA",
-    "cityName": {
-      "en": "Pakse",
-      "ko": "팍세"
-    },
-    "cityIATACode": "PKZ",
-    "dryMonths": [11, 12, 1, 2],
-    "rainyMonths": [5, 6, 7, 8, 9, 10]
-  }
-]
+    {
+      "cityName": {
+        "ko": "방비엥",
+        "en": "Vang Vieng"
+      },
+      "cityDesc": "아름다운 카르스트 산악 지형과 강이 특징인, 모험과 휴식을 동시에 즐길 수 있는 관광지",
+      "regionCode": "Vang_Vieng",
+      "dryMonths": [11, 12, 1, 2, 3],
+      "rainyMonths": [4, 5, 6, 7, 8, 9, 10]
+    }
+  ]
+}

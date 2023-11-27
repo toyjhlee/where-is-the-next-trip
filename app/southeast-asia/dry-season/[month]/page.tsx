@@ -1,4 +1,4 @@
-import { WeatherData, cityByCountry } from '../../../data'
+import { cityByCountry, CountryDate, CityData } from '../../../data'
 
 import { MonthSelector } from '../../../../app/components/SharedComponent'
 
@@ -15,9 +15,9 @@ export default function Page({ params }: { params: PageParams }) {
     <>
       <h1 className="text-xl font-semibold">{`${currentMonth}월에 건기인 동남아 도시`}</h1>
 
-      {listArr.map((list: WeatherData[]) => {
-        const countryNameKo = list[0].countryName.ko
-        const showList = list.filter(
+      {listArr.map(({ country, cityList }: CountryDate) => {
+        const countryNameKo = country.countryName.ko
+        const showList = cityList.filter(
           (obj) => !obj.rainyMonths.includes(currentMonth),
         )
 
@@ -25,10 +25,11 @@ export default function Page({ params }: { params: PageParams }) {
           <article key={countryNameKo} className="mt-2">
             <h2 className="text-lg font-semibold">{countryNameKo}</h2>
             <ul>
-              {showList.map((obj: WeatherData) => {
+              {showList.map((obj: CityData) => {
                 return (
-                  <li className="mr-2 inline-block" key={obj.cityIATACode}>
-                    {obj.cityName.ko} <small>{`(${obj.cityIATACode})`}</small>
+                  <li className="mr-2" key={`${obj.regionCode}`}>
+                    <span className="font-semibold">{obj.cityName.ko}</span>
+                    <p className="text-sm">{obj.cityDesc}</p>
                   </li>
                 )
               })}

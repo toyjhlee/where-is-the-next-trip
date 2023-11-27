@@ -1,44 +1,71 @@
-[
-  {
+{
+  "country": {
     "countryName": {
       "en": "Indonesia",
       "ko": "인도네시아"
     },
-    "countryCode": "ID",
-    "cityName": {
-      "en": "Jakarta",
-      "ko": "자카르타"
-    },
-    "cityIATACode": "CGK",
-    "dryMonths": [6, 7, 8, 9],
-    "rainyMonths": [1, 2, 3, 4, 5, 10, 11, 12]
+    "countryCode": "ID"
   },
-  {
-    "countryName": {
-      "en": "Indonesia",
-      "ko": "인도네시아"
+  "cityList": [
+    {
+      "cityName": {
+        "ko": "발리",
+        "en": "Bali"
+      },
+      "cityDesc": "인도네시아에서 휴양과 서핑, 아름다운 해변으로 유명한 관광지",
+      "regionCode": "ID-BA",
+      "dryMonths": [5, 6, 7, 8, 9],
+      "rainyMonths": [1, 2, 3, 4, 10, 11, 12]
     },
-    "countryCode": "ID",
-    "cityName": {
-      "en": "Bali",
-      "ko": "발리"
+    {
+      "cityName": {
+        "ko": "자카르타",
+        "en": "Jakarta"
+      },
+      "cityDesc": "인도네시아의 수도이자 다양한 문화와 쇼핑, 나이트라이프가 특징인 도시",
+      "regionCode": "ID-JK",
+      "dryMonths": [6, 7, 8, 9],
+      "rainyMonths": [1, 2, 3, 4, 5, 10, 11, 12]
     },
-    "cityIATACode": "DPS",
-    "dryMonths": [5, 6, 7, 8, 9],
-    "rainyMonths": [1, 2, 3, 4, 10, 11, 12]
-  },
-  {
-    "countryName": {
-      "en": "Indonesia",
-      "ko": "인도네시아"
+    {
+      "cityName": {
+        "ko": "요그야카르타",
+        "en": "Yogyakarta"
+      },
+      "cityDesc": "인도네시아의 문화적 중심지로 보로부두르와 프람바난 사원이 위치한 곳",
+      "regionCode": "ID-YO",
+      "dryMonths": [6, 7, 8, 9],
+      "rainyMonths": [1, 2, 3, 4, 5, 10, 11, 12]
     },
-    "countryCode": "ID",
-    "cityName": {
-      "en": "Yogyakarta",
-      "ko": "요기아카르타"
+    {
+      "cityName": {
+        "ko": "롬복",
+        "en": "Lombok"
+      },
+      "cityDesc": "인도네시아의 아름다운 해변과 자연 경관을 자랑하는 섬",
+      "regionCode": "ID-NB",
+      "dryMonths": [5, 6, 7, 8, 9],
+      "rainyMonths": [1, 2, 3, 4, 10, 11, 12]
     },
-    "cityIATACode": "JOG",
-    "dryMonths": [6, 7, 8, 9],
-    "rainyMonths": [1, 2, 3, 4, 5, 10, 11, 12]
-  }
-]
+    {
+      "cityName": {
+        "ko": "수마트라",
+        "en": "Sumatra"
+      },
+      "cityDesc": "인도네시아의 큰 섬으로 풍부한 자연과 야생 동물이 있는 곳",
+      "regionCode": "ID-SU",
+      "dryMonths": [6, 7, 8],
+      "rainyMonths": [1, 2, 3, 4, 5, 9, 10, 11, 12]
+    },
+    {
+      "cityName": {
+        "ko": "반둥",
+        "en": "Bandung"
+      },
+      "cityDesc": "인도네시아에서 쇼핑과 음식, 아름다운 자연 경관으로 유명한 도시",
+      "regionCode": "ID-JB",
+      "dryMonths": [6, 7, 8, 9],
+      "rainyMonths": [1, 2, 3, 4, 5, 10, 11, 12]
+    }
+  ]
+}

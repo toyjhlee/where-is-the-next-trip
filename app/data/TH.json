@@ -1,72 +1,61 @@
-[
-  {
+{
+  "country": {
     "countryName": {
       "en": "Thailand",
       "ko": "타이"
     },
-    "countryCode": "TH",
-    "cityName": {
-      "en": "Bangkok",
-      "ko": "방콕"
-    },
-    "cityIATACode": "BKK",
-    "dryMonths": [11, 12, 1, 2],
-    "rainyMonths": [5, 6, 7, 8, 9, 10]
+    "countryCode": "TH"
   },
-  {
-    "countryName": {
-      "en": "Thailand",
-      "ko": "타이"
+  "cityList": [
+    {
+      "cityName": {
+        "ko": "방콕",
+        "en": "Bangkok"
+      },
+      "cityDesc": "태국의 수도로, 활기찬 도시 생활과 역사적인 사원, 시장, 화려한 야경이 어우러진 도시",
+      "regionCode": "Bangkok",
+      "dryMonths": [11, 12, 1, 2, 3],
+      "rainyMonths": [5, 6, 7, 8, 9, 10, 4]
     },
-    "countryCode": "TH",
-    "cityName": {
-      "en": "Phuket",
-      "ko": "푸켓"
+    {
+      "cityName": {
+        "ko": "치앙마이",
+        "en": "Chiang Mai"
+      },
+      "cityDesc": "태국 북부의 역사적인 도시로, 아름다운 사원과 자연 경관, 전통 공예품으로 유명",
+      "regionCode": "Chiang_Mai",
+      "dryMonths": [11, 12, 1, 2, 3],
+      "rainyMonths": [5, 6, 7, 8, 9, 10, 4]
     },
-    "cityIATACode": "HKT",
-    "dryMonths": [11, 12, 1, 2],
-    "rainyMonths": [5, 6, 7, 8, 9, 10]
-  },
-  {
-    "countryName": {
-      "en": "Thailand",
-      "ko": "타이"
+    {
+      "cityName": {
+        "ko": "푸켓",
+        "en": "Phuket"
+      },
+      "cityDesc": "태국 남부의 대표적인 휴양지로, 아름다운 해변과 다양한 해양 스포츠, 열대 정글이 특징",
+      "regionCode": "Phuket",
+      "dryMonths": [11, 12, 1, 2, 3],
+      "rainyMonths": [5, 6, 7, 8, 9, 10, 4]
     },
-    "countryCode": "TH",
-    "cityName": {
-      "en": "Chiang Mai",
-      "ko": "치앙마이"
+    {
+      "cityName": {
+        "ko": "파타야",
+        "en": "Pattaya"
+      },
+      "cityDesc": "태국의 주요 해변 휴양지 중 하나로, 활발한 나이트라이프와 수상 스포츠로 유명",
+      "regionCode": "Pattaya",
+      "dryMonths": [11, 12, 1, 2, 3],
+      "rainyMonths": [5, 6, 7, 8, 9, 10, 4]
     },
-    "cityIATACode": "CNX",
-    "dryMonths": [11, 12, 1, 2],
-    "rainyMonths": [5, 6, 7, 8, 9, 10]
-  },
-  {
-    "countryName": {
-      "en": "Thailand",
-      "ko": "타이"
-    },
-    "countryCode": "TH",
-    "cityName": {
-      "en": "Pattaya",
-      "ko": "파타야"
-    },
-    "cityIATACode": "PYX",
-    "dryMonths": [11, 12, 1, 2],
-    "rainyMonths": [5, 6, 7, 8, 9, 10]
-  },
-  {
-    "countryName": {
-      "en": "Thailand",
-      "ko": "타이"
-    },
-    "countryCode": "TH",
-    "cityName": {
-      "en": "Hua Hin",
-      "ko": "화힌"
-    },
-    "cityIATACode": "HHQ",
-    "dryMonths": [11, 12, 1, 2],
-    "rainyMonths": [5, 6, 7, 8, 9, 10]
-  }
-]
+    {
+      "cityName": {
+        "ko": "아유타야",
+        "en": "Ayutthaya"
+      },
+      "cityDesc": "태국의 고대 수도로, 유네스코 세계 문화유산에 등재된 역사적인 유적지",
+      "regionCode": "Ayutthaya",
+      "dryMonths": [11, 12, 1, 2, 3],
+      "rainyMonths": [5, 6, 7, 8, 9, 10, 4]
+    }
+  ]
+}

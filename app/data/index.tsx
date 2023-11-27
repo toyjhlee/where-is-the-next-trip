@@ -7,31 +7,31 @@ import PH from './PH.json'
 import VN from './VN.json'
 import TH from './TH.json'
 
-export default function CombinedData(): WeatherData[] {
-  const combinedData = [...KH, ...VN, ...PH, ...ID, ...MY, ...LA, ...MM, ...TH]
-
-  return combinedData
-}
-
-export function cityByCountry(): WeatherData[][] {
+export function cityByCountry(): CountryDate[] {
   return [KH, VN, PH, ID, MY, LA, MM, TH]
 }
 
-type WeatherData = {
-  countryName: {
-    en: string
-    ko: string
+type CountryDate = {
+  country: {
+    countryName: {
+      en: string
+      ko: string
+    }
+    countryCode: string
   }
-  countryCode: string
+  cityList: CityData[]
+}
+
+type CityData = {
   cityName: {
     en: string
     ko: string
   }
-  cityIATACode: string
+  cityDesc: string
+  regionCode?: string // ISO 3166-2 코드로 표현, 도시별로 특정한 ISO 3166-2 코드가 존재하지 않을 도시의 이름을 _ 로 붙힘
+  // 주요 관광지 추가하자
   dryMonths: number[]
   rainyMonths: number[]
 }
 
-type CombinedData = WeatherData[]
-
-export type { WeatherData }
+export type { CountryDate, CityData }

@@ -1,58 +1,41 @@
-[
-  {
+{
+  "country": {
     "countryName": {
       "en": "Cambodia",
       "ko": "캄보디아"
     },
-    "countryCode": "KH",
-    "cityName": {
-      "en": "Phnom Penh",
-      "ko": "프놈펜"
-    },
-    "cityIATACode": "PNH",
-    "dryMonths": [11, 12, 1, 2, 3, 4],
-    "rainyMonths": [5, 6, 7, 8, 9, 10]
+    "countryCode": "KH"
   },
-  {
-    "countryName": {
-      "en": "Cambodia",
-      "ko": "캄보디아"
+  "cityList": [
+    {
+      "cityName": {
+        "ko": "프놈펜",
+        "en": "Phnom Penh"
+      },
+      "cityDesc": "캄보디아의 수도로서 정치, 경제, 문화의 중심지이며, 왕궁과 다양한 박물관이 위치한 역사적인 도시",
+      "regionCode": "Phnom_Penh",
+      "dryMonths": [11, 12, 1, 2, 3, 4],
+      "rainyMonths": [5, 6, 7, 8, 9, 10]
     },
-    "countryCode": "KH",
-    "cityName": {
-      "en": "Siem Reap",
-      "ko": "씨엠립"
+    {
+      "cityName": {
+        "ko": "씨엠립",
+        "en": "Siem Reap"
+      },
+      "cityDesc": "앙코르 와트 사원군으로 유명한 캄보디아의 대표적인 관광 도시",
+      "regionCode": "Siem_Reap",
+      "dryMonths": [11, 12, 1, 2, 3, 4],
+      "rainyMonths": [5, 6, 7, 8, 9, 10]
     },
-    "cityIATACode": "REP",
-    "dryMonths": [11, 12, 1, 2, 3, 4],
-    "rainyMonths": [5, 6, 7, 8, 9, 10]
-  },
-  {
-    "countryName": {
-      "en": "Cambodia",
-      "ko": "캄보디아"
-    },
-    "countryCode": "KH",
-    "cityName": {
-      "en": "Sihanoukville",
-      "ko": "시하누크빌"
-    },
-    "cityIATACode": "KOS",
-    "dryMonths": [11, 12, 1, 2, 3, 4],
-    "rainyMonths": [5, 6, 7, 8, 9, 10]
-  },
-  {
-    "countryName": {
-      "en": "Cambodia",
-      "ko": "캄보디아"
-    },
-    "countryCode": "KH",
-    "cityName": {
-      "en": "Battambang",
-      "ko": "바딤팡"
-    },
-    "cityIATACode": "BBM",
-    "dryMonths": [11, 12, 1, 2, 3, 4],
-    "rainyMonths": [5, 6, 7, 8, 9, 10]
-  }
-]
+    {
+      "cityName": {
+        "ko": "캄퐁 썸",
+        "en": "Sihanoukville"
+      },
+      "cityDesc": "캄보디아의 주요 항구도시로, 아름다운 해변과 휴양지로 유명",
+      "regionCode": "Sihanoukville",
+      "dryMonths": [11, 12, 1, 2, 3, 4],
+      "rainyMonths": [5, 6, 7, 8, 9, 10]
+    }
+  ]
+}

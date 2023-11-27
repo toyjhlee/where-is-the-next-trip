@@ -1,58 +1,51 @@
-[
-  {
+{
+  "country": {
     "countryName": {
       "en": "Philippines",
       "ko": "필리핀"
     },
-    "countryCode": "PH",
-    "cityName": {
-      "en": "Manila",
-      "ko": "마닐라"
-    },
-    "cityIATACode": "MNL",
-    "dryMonths": [1, 2, 3, 4],
-    "rainyMonths": [5, 6, 7, 8, 9, 10, 11, 12]
+    "countryCode": "PH"
   },
-  {
-    "countryName": {
-      "en": "Philippines",
-      "ko": "필리핀"
+  "cityList": [
+    {
+      "cityName": {
+        "ko": "마닐라",
+        "en": "Manila"
+      },
+      "cityDesc": "필리핀의 수도이자, 역사적인 명소와 현대적인 쇼핑몰이 공존하는 다양한 문화의 도시",
+      "regionCode": "Manila",
+      "dryMonths": [1, 2, 3, 4],
+      "rainyMonths": [5, 6, 7, 8, 9, 10, 11, 12]
     },
-    "countryCode": "PH",
-    "cityName": {
-      "en": "Cebu",
-      "ko": "세부"
+    {
+      "cityName": {
+        "ko": "세부",
+        "en": "Cebu"
+      },
+      "cityDesc": "필리핀 중부에 위치한 열대 해변의 천국으로, 다이빙과 해양 스포츠가 유명한 관광지",
+      "regionCode": "Cebu",
+      "dryMonths": [1, 2, 3, 4],
+      "rainyMonths": [5, 6, 7, 8, 9, 10, 11, 12]
     },
-    "cityIATACode": "CEB",
-    "dryMonths": [1, 2, 3, 4],
-    "rainyMonths": [5, 6, 7, 8, 9, 10, 11, 12]
-  },
-  {
-    "countryName": {
-      "en": "Philippines",
-      "ko": "필리핀"
+    {
+      "cityName": {
+        "ko": "보라카이",
+        "en": "Boracay"
+      },
+      "cityDesc": "세계적으로 유명한 해변과 밤문화로 알려진 필리핀의 대표적인 휴양지",
+      "regionCode": "Boracay",
+      "dryMonths": [11, 12, 1, 2, 3, 4],
+      "rainyMonths": [5, 6, 7, 8, 9, 10]
     },
-    "countryCode": "PH",
-    "cityName": {
-      "en": "Boracay",
-      "ko": "보라카이"
-    },
-    "cityIATACode": "MPH",
-    "dryMonths": [1, 2, 3, 4],
-    "rainyMonths": [5, 6, 7, 8, 9, 10, 11, 12]
-  },
-  {
-    "countryName": {
-      "en": "Philippines",
-      "ko": "필리핀"
-    },
-    "countryCode": "PH",
-    "cityName": {
-      "en": "Palawan",
-      "ko": "팔라완"
-    },
-    "cityIATACode": "PPS",
-    "dryMonths": [1, 2, 3, 4, 5],
-    "rainyMonths": [6, 7, 8, 9, 10, 11, 12]
-  }
-]
+    {
+      "cityName": {
+        "ko": "팔라완",
+        "en": "Palawan"
+      },
+      "cityDesc": "자연 그대로의 아름다움을 간직한 열대 지역으로, 엘 니도와 푸에르토 프린세사로 유명",
+      "regionCode": "Palawan",
+      "dryMonths": [11, 12, 1, 2, 3, 4],
+      "rainyMonths": [5, 6, 7, 8, 9, 10]
+    }
+  ]
+}

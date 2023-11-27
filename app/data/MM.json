@@ -1,72 +1,51 @@
-[
-  {
+{
+  "country": {
     "countryName": {
       "en": "Myanmar",
       "ko": "미얀마"
     },
-    "countryCode": "MM",
-    "cityName": {
-      "en": "Yangon",
-      "ko": "양곤"
-    },
-    "cityIATACode": "RGN",
-    "dryMonths": [11, 12, 1, 2],
-    "rainyMonths": [5, 6, 7, 8, 9, 10]
+    "countryCode": "MM"
   },
-  {
-    "countryName": {
-      "en": "Myanmar",
-      "ko": "미얀마"
+  "cityList": [
+    {
+      "cityName": {
+        "ko": "양곤",
+        "en": "Yangon"
+      },
+      "cityDesc": "미얀마의 경제 중심지이자 가장 큰 도시로, 쉐다곤 파고다와 식민지 시대의 건축물로 유명",
+      "regionCode": "Yangon",
+      "dryMonths": [11, 12, 1, 2, 3],
+      "rainyMonths": [4, 5, 6, 7, 8, 9, 10]
     },
-    "countryCode": "MM",
-    "cityName": {
-      "en": "Mandalay",
-      "ko": "만달레이"
+    {
+      "cityName": {
+        "ko": "만달레이",
+        "en": "Mandalay"
+      },
+      "cityDesc": "미얀마 북부의 문화와 종교의 중심지로, 많은 사원과 수도원이 위치한 역사적인 도시",
+      "regionCode": "Mandalay",
+      "dryMonths": [11, 12, 1, 2, 3],
+      "rainyMonths": [4, 5, 6, 7, 8, 9, 10]
     },
-    "cityIATACode": "MDL",
-    "dryMonths": [11, 12, 1, 2],
-    "rainyMonths": [5, 6, 7, 8, 9, 10]
-  },
-  {
-    "countryName": {
-      "en": "Myanmar",
-      "ko": "미얀마"
+    {
+      "cityName": {
+        "ko": "바간",
+        "en": "Bagan"
+      },
+      "cityDesc": "고대 도시로, 수천 개의 불교 사원과 파고다가 있는 세계적인 관광 명소",
+      "regionCode": "Bagan",
+      "dryMonths": [11, 12, 1, 2, 3],
+      "rainyMonths": [4, 5, 6, 7, 8, 9, 10]
     },
-    "countryCode": "MM",
-    "cityName": {
-      "en": "Bagan",
-      "ko": "바간"
-    },
-    "cityIATACode": "NYU",
-    "dryMonths": [11, 12, 1, 2],
-    "rainyMonths": [5, 6, 7, 8, 9, 10]
-  },
-  {
-    "countryName": {
-      "en": "Myanmar",
-      "ko": "미얀마"
-    },
-    "countryCode": "MM",
-    "cityName": {
-      "en": "Inle Lake",
-      "ko": "인레 호수"
-    },
-    "cityIATACode": "HEH",
-    "dryMonths": [11, 12, 1, 2],
-    "rainyMonths": [5, 6, 7, 8, 9, 10]
-  },
-  {
-    "countryName": {
-      "en": "Myanmar",
-      "ko": "미얀마"
-    },
-    "countryCode": "MM",
-    "cityName": {
-      "en": "Naypyidaw",
-      "ko": "네피도"
-    },
-    "cityIATACode": "NYT",
-    "dryMonths": [11, 12, 1, 2],
-    "rainyMonths": [5, 6, 7, 8, 9, 10]
-  }
-]
+    {
+      "cityName": {
+        "ko": "인레 호수",
+        "en": "Inle Lake"
+      },
+      "cityDesc": "산과 언덕으로 둘러싸인 아름다운 호수로, 수상 가옥과 전통적인 어로 방식으로 유명",
+      "regionCode": "Inle_Lake",
+      "dryMonths": [11, 12, 1, 2, 3],
+      "rainyMonths": [4, 5, 6, 7, 8, 9, 10]
+    }
+  ]
+}
