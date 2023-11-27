@@ -1,10 +1,10 @@
 {
   "country": {
     "countryName": {
-      "en": "Myanmar",
-      "ko": "미얀마"
+      "en": "Malaysia",
+      "ko": "말레이시아"
     },
-    "countryCode": "MM"
+    "countryCode": "MY"
   },
   "cityList": [
     {
@@ -13,7 +13,7 @@
         "en": "Kuala Lumpur"
       },
       "cityDesc": "말레이시아의 수도이자 가장 큰 도시로, 페트로나스 트윈 타워와 다양한 쇼핑몰로 유명",
-      "regionCode": "Kuala_Lumpur",
+      "combinedCode": "MY-Kuala_Lumpur",
       "dryMonths": [5, 6, 7],
       "rainyMonths": [3, 4, 8, 9, 10, 11, 12]
     },
@@ -23,7 +23,7 @@
         "en": "George Town"
       },
       "cityDesc": "페낭 섬의 주도로, 유네스코 세계 문화유산에 등재된 역사적인 도시",
-      "regionCode": "George_Town",
+      "combinedCode": "MY-George_Town",
       "dryMonths": [1, 2, 3],
       "rainyMonths": [4, 5, 6, 7, 8, 9, 10, 11, 12]
     },
@@ -33,7 +33,7 @@
         "en": "Malacca"
       },
       "cityDesc": "말레이시아의 역사적인 도시로, 포르투갈과 네덜란드의 식민지 역사가 남아 있는 곳",
-      "regionCode": "Malacca",
+      "combinedCode": "MY-Malacca",
       "dryMonths": [1, 2, 3],
       "rainyMonths": [4, 5, 6, 7, 8, 9, 10, 11, 12]
     },
@@ -43,7 +43,7 @@
         "en": "Kota Kinabalu"
       },
       "cityDesc": "보르네오 섬의 사바 주에 위치한 도시로, 키나발루 산과 아름다운 해변이 있는 관광지",
-      "regionCode": "Kota_Kinabalu",
+      "combinedCode": "MY-Kota_Kinabalu",
       "dryMonths": [1, 2, 3],
       "rainyMonths": [4, 5, 6, 7, 8, 9, 10, 11, 12]
     },
@@ -53,7 +53,7 @@
         "en": "Langkawi"
       },
       "cityDesc": "말레이시아의 대표적인 휴양지로, 아름다운 해변과 청정 자연 환경을 자랑하는 섬",
-      "regionCode": "Langkawi",
+      "combinedCode": "MY-Langkawi",
       "dryMonths": [1, 2, 3, 4],
       "rainyMonths": [5, 6, 7, 8, 9, 10, 11, 12]
     }

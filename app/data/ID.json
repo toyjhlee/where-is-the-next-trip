@@ -13,7 +13,7 @@
         "en": "Bali"
       },
       "cityDesc": "인도네시아에서 휴양과 서핑, 아름다운 해변으로 유명한 관광지",
-      "regionCode": "ID-BA",
+      "combinedCode": "ID-Bali",
       "dryMonths": [5, 6, 7, 8, 9],
       "rainyMonths": [1, 2, 3, 4, 10, 11, 12]
     },
@@ -23,7 +23,7 @@
         "en": "Jakarta"
       },
       "cityDesc": "인도네시아의 수도이자 다양한 문화와 쇼핑, 나이트라이프가 특징인 도시",
-      "regionCode": "ID-JK",
+      "combinedCode": "ID-Jakarta",
       "dryMonths": [6, 7, 8, 9],
       "rainyMonths": [1, 2, 3, 4, 5, 10, 11, 12]
     },
@@ -33,7 +33,7 @@
         "en": "Yogyakarta"
       },
       "cityDesc": "인도네시아의 문화적 중심지로 보로부두르와 프람바난 사원이 위치한 곳",
-      "regionCode": "ID-YO",
+      "combinedCode": "ID-Yogyakarta",
       "dryMonths": [6, 7, 8, 9],
       "rainyMonths": [1, 2, 3, 4, 5, 10, 11, 12]
     },
@@ -43,7 +43,7 @@
         "en": "Lombok"
       },
       "cityDesc": "인도네시아의 아름다운 해변과 자연 경관을 자랑하는 섬",
-      "regionCode": "ID-NB",
+      "combinedCode": "ID-Lombok",
       "dryMonths": [5, 6, 7, 8, 9],
       "rainyMonths": [1, 2, 3, 4, 10, 11, 12]
     },
@@ -53,7 +53,7 @@
         "en": "Sumatra"
       },
       "cityDesc": "인도네시아의 큰 섬으로 풍부한 자연과 야생 동물이 있는 곳",
-      "regionCode": "ID-SU",
+      "combinedCode": "ID-Sumatra",
       "dryMonths": [6, 7, 8],
       "rainyMonths": [1, 2, 3, 4, 5, 9, 10, 11, 12]
     },
@@ -63,7 +63,7 @@
         "en": "Bandung"
       },
       "cityDesc": "인도네시아에서 쇼핑과 음식, 아름다운 자연 경관으로 유명한 도시",
-      "regionCode": "ID-JB",
+      "combinedCode": "ID-Bandung",
       "dryMonths": [6, 7, 8, 9],
       "rainyMonths": [1, 2, 3, 4, 5, 10, 11, 12]
     }

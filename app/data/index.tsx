@@ -28,7 +28,7 @@ type CityData = {
     ko: string
   }
   cityDesc: string
-  regionCode?: string // ISO 3166-2 코드로 표현, 도시별로 특정한 ISO 3166-2 코드가 존재하지 않을 도시의 이름을 _ 로 붙힘
+  combinedCode?: string // ISO 3166-2 코드로 표현, 도시별로 특정한 ISO 3166-2 코드가 존재하지 않을 도시의 이름을 _ 로 붙힘
   // 주요 관광지 추가하자
   dryMonths: number[]
   rainyMonths: number[]

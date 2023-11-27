@@ -13,7 +13,7 @@
         "en": "Phnom Penh"
       },
       "cityDesc": "캄보디아의 수도로서 정치, 경제, 문화의 중심지이며, 왕궁과 다양한 박물관이 위치한 역사적인 도시",
-      "regionCode": "Phnom_Penh",
+      "combinedCode": "KH-Phnom_Penh",
       "dryMonths": [11, 12, 1, 2, 3, 4],
       "rainyMonths": [5, 6, 7, 8, 9, 10]
     },
@@ -23,7 +23,7 @@
         "en": "Siem Reap"
       },
       "cityDesc": "앙코르 와트 사원군으로 유명한 캄보디아의 대표적인 관광 도시",
-      "regionCode": "Siem_Reap",
+      "combinedCode": "KH-Siem_Reap",
       "dryMonths": [11, 12, 1, 2, 3, 4],
       "rainyMonths": [5, 6, 7, 8, 9, 10]
     },
@@ -33,7 +33,7 @@
         "en": "Sihanoukville"
       },
       "cityDesc": "캄보디아의 주요 항구도시로, 아름다운 해변과 휴양지로 유명",
-      "regionCode": "Sihanoukville",
+      "combinedCode": "KH-Sihanoukville",
       "dryMonths": [11, 12, 1, 2, 3, 4],
       "rainyMonths": [5, 6, 7, 8, 9, 10]
     }

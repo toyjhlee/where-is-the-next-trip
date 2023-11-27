@@ -27,7 +27,7 @@ export default function Page({ params }: { params: PageParams }) {
             <ul>
               {showList.map((obj: CityData) => {
                 return (
-                  <li className="mr-2" key={`${obj.regionCode}`}>
+                  <li className="mr-2" key={`${obj.combinedCode}`}>
                     <span className="font-semibold">{obj.cityName.ko}</span>
                     <p className="text-sm">{obj.cityDesc}</p>
                   </li>

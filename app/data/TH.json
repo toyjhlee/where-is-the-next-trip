@@ -13,7 +13,7 @@
         "en": "Bangkok"
       },
       "cityDesc": "태국의 수도로, 활기찬 도시 생활과 역사적인 사원, 시장, 화려한 야경이 어우러진 도시",
-      "regionCode": "Bangkok",
+      "combinedCode": "TH-Bangkok",
       "dryMonths": [11, 12, 1, 2, 3],
       "rainyMonths": [5, 6, 7, 8, 9, 10, 4]
     },
@@ -23,7 +23,7 @@
         "en": "Chiang Mai"
       },
       "cityDesc": "태국 북부의 역사적인 도시로, 아름다운 사원과 자연 경관, 전통 공예품으로 유명",
-      "regionCode": "Chiang_Mai",
+      "combinedCode": "TH-Chiang_Mai",
       "dryMonths": [11, 12, 1, 2, 3],
       "rainyMonths": [5, 6, 7, 8, 9, 10, 4]
     },
@@ -33,7 +33,7 @@
         "en": "Phuket"
       },
       "cityDesc": "태국 남부의 대표적인 휴양지로, 아름다운 해변과 다양한 해양 스포츠, 열대 정글이 특징",
-      "regionCode": "Phuket",
+      "combinedCode": "TH-Phuket",
       "dryMonths": [11, 12, 1, 2, 3],
       "rainyMonths": [5, 6, 7, 8, 9, 10, 4]
     },
@@ -43,7 +43,7 @@
         "en": "Pattaya"
       },
       "cityDesc": "태국의 주요 해변 휴양지 중 하나로, 활발한 나이트라이프와 수상 스포츠로 유명",
-      "regionCode": "Pattaya",
+      "combinedCode": "TH-Pattaya",
       "dryMonths": [11, 12, 1, 2, 3],
       "rainyMonths": [5, 6, 7, 8, 9, 10, 4]
     },
@@ -53,7 +53,7 @@
         "en": "Ayutthaya"
       },
       "cityDesc": "태국의 고대 수도로, 유네스코 세계 문화유산에 등재된 역사적인 유적지",
-      "regionCode": "Ayutthaya",
+      "combinedCode": "TH-Ayutthaya",
       "dryMonths": [11, 12, 1, 2, 3],
       "rainyMonths": [5, 6, 7, 8, 9, 10, 4]
     }
