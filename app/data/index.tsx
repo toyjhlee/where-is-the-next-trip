@@ -22,6 +22,15 @@ type CountryDate = {
   cityList: CityData[]
 }
 
+type SpotData = {
+  spotName: {
+    en: string
+    ko: string
+  }
+  spotDesc: string
+  spotImg: string
+}
+
 type CityData = {
   cityName: {
     en: string
@@ -32,6 +41,7 @@ type CityData = {
   // 주요 관광지 추가하자
   dryMonths: number[]
   rainyMonths: number[]
+  touristSpot: SpotData[]
 }
 
-export type { CountryDate, CityData }
+export type { CountryDate, CityData, SpotData }
