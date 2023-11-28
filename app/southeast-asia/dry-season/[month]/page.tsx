@@ -36,16 +36,23 @@ export default function Page({ params }: { params: PageParams }) {
                         {countryNameKo}
                       </span>
                     </h2>
-                    <p className="mb-6 text-gray-700">{obj.cityDesc}</p>
+                    <p className="mb-2 text-gray-700">{obj.cityDesc}</p>
                     {/* <p className="font-medium text-gray-800">
                       건기인 월: 11월 - 4월
                     </p> */}
 
-                    <div className="mt-6 grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
+                    <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
                       {obj.touristSpot.map((spot: SpotData) => {
                         return (
-                          <div className="card" key={spot.spotName.en}>
-                            {/* <img className="w-full h-40 object-cover" src="tourist-attraction-image.jpg" alt="관광지 이미지" /> */}
+                          <div
+                            className="rounded-lg border border-gray-200 shadow-lg"
+                            key={spot.spotName.en}
+                          >
+                            {/* <img
+                              className="h-40 w-full object-cover"
+                              src="tourist-attraction-image.jpg"
+                              alt="관광지 이미지"
+                            /> */}
                             <div className="p-4">
                               <h4 className="mb-2 text-lg font-medium text-gray-800">
                                 {spot.spotName.ko}
