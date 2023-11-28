@@ -15,7 +15,25 @@
       "cityDesc": "필리핀의 수도이자, 역사적인 명소와 현대적인 쇼핑몰이 공존하는 다양한 문화의 도시",
       "combinedCode": "PH-Manila",
       "dryMonths": [1, 2, 3, 4],
-      "rainyMonths": [5, 6, 7, 8, 9, 10, 11, 12]
+      "rainyMonths": [5, 6, 7, 8, 9, 10, 11, 12],
+      "touristSpot": [
+        {
+          "spotName": {
+            "ko": "인트라무로스",
+            "en": "Intramuros"
+          },
+          "spotDesc": "마닐라의 역사적인 지구로, 스페인 식민지 시대의 벽과 건물이 남아 있는 곳입니다.",
+          "spotImg": "인트라무로스 대표 이미지 URL"
+        },
+        {
+          "spotName": {
+            "ko": "리잘 공원",
+            "en": "Rizal Park"
+          },
+          "spotDesc": "필리핀 국가 영웅 호세 리잘을 기리는 공원으로, 아름다운 정원과 기념비가 있는 곳입니다.",
+          "spotImg": "리잘 공원 대표 이미지 URL"
+        }
+      ]
     },
     {
       "cityName": {
@@ -25,7 +43,25 @@
       "cityDesc": "필리핀 중부에 위치한 열대 해변의 천국으로, 다이빙과 해양 스포츠가 유명한 관광지",
       "combinedCode": "PH-Cebu",
       "dryMonths": [1, 2, 3, 4],
-      "rainyMonths": [5, 6, 7, 8, 9, 10, 11, 12]
+      "rainyMonths": [5, 6, 7, 8, 9, 10, 11, 12],
+      "touristSpot": [
+        {
+          "spotName": {
+            "ko": "막탄 섬",
+            "en": "Mactan Island"
+          },
+          "spotDesc": "세부에서 가까운 리조트와 다이빙 스폿이 많은 아름다운 섬입니다.",
+          "spotImg": "막탄 섬 대표 이미지 URL"
+        },
+        {
+          "spotName": {
+            "ko": "오스메냐 피크",
+            "en": "Osmeña Peak"
+          },
+          "spotDesc": "세부에서 가장 높은 지점으로, 멋진 전망을 제공하는 트레킹 코스가 있는 곳입니다.",
+          "spotImg": "오스메냐 피크 대표 이미지 URL"
+        }
+      ]
     },
     {
       "cityName": {
@@ -35,7 +71,25 @@
       "cityDesc": "세계적으로 유명한 해변과 밤문화로 알려진 필리핀의 대표적인 휴양지",
       "combinedCode": "PH-Boracay",
       "dryMonths": [11, 12, 1, 2, 3, 4],
-      "rainyMonths": [5, 6, 7, 8, 9, 10]
+      "rainyMonths": [5, 6, 7, 8, 9, 10],
+      "touristSpot": [
+        {
+          "spotName": {
+            "ko": "화이트 비치",
+            "en": "White Beach"
+          },
+          "spotDesc": "보라카이의 대표적인 해변으로, 미세한 하얀 모래와 맑은 물이 특징인 곳입니다.",
+          "spotImg": "화이트 비치 대표 이미지 URL"
+        },
+        {
+          "spotName": {
+            "ko": "불라보그 비치",
+            "en": "Bulabog Beach"
+          },
+          "spotDesc": "카이트서핑과 윈드서핑으로 유명한 보라카이의 또 다른 해변입니다.",
+          "spotImg": "불라보그 비치 대표 이미지 URL"
+        }
+      ]
     },
     {
       "cityName": {
@@ -45,7 +99,25 @@
       "cityDesc": "자연 그대로의 아름다움을 간직한 열대 지역으로, 엘 니도와 푸에르토 프린세사로 유명",
       "combinedCode": "PH-Palawan",
       "dryMonths": [11, 12, 1, 2, 3, 4],
-      "rainyMonths": [5, 6, 7, 8, 9, 10]
+      "rainyMonths": [5, 6, 7, 8, 9, 10],
+      "touristSpot": [
+        {
+          "spotName": {
+            "ko": "엘 니도",
+            "en": "El Nido"
+          },
+          "spotDesc": "팔라완의 북부에 위치한, 아름다운 섬과 해변이 특징인 관광지입니다.",
+          "spotImg": "엘 니도 대표 이미지 URL"
+        },
+        {
+          "spotName": {
+            "ko": "지하강 국립공원",
+            "en": "Puerto Princesa Subterranean River National Park"
+          },
+          "spotDesc": "유네스코 세계 자연 유산으로, 지하강이 흐르는 독특한 경관을 감상할 수 있습니다.",
+          "spotImg": "지하강 국립공원 대표 이미지 URL"
+        }
+      ]
     }
   ]
 }

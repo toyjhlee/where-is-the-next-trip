@@ -15,7 +15,25 @@
       "cityDesc": "베트남의 수도로서 역사적인 건축물, 오래된 사원, 전통적인 시장이 특징인 문화적 중심지",
       "combinedCode": "VN-Hanoi",
       "dryMonths": [11, 12, 1, 2],
-      "rainyMonths": [5, 6, 7, 8, 9, 10]
+      "rainyMonths": [5, 6, 7, 8, 9, 10],
+      "touristSpot": [
+        {
+          "spotName": {
+            "ko": "호안끼엠 호수",
+            "en": "Hoan Kiem Lake"
+          },
+          "spotDesc": "하노이의 중심에 위치한 아름다운 호수로, 주변에는 많은 역사적인 건축물과 카페가 있습니다.",
+          "spotImg": "호안끼엠 호수 대표 이미지 URL"
+        },
+        {
+          "spotName": {
+            "ko": "하노이 올드 쿼터",
+            "en": "Hanoi Old Quarter"
+          },
+          "spotDesc": "하노이의 전통적인 상업 지구로, 다양한 상점, 레스토랑, 역사적인 장소가 즐비한 곳입니다.",
+          "spotImg": "하노이 올드 쿼터 대표 이미지 URL"
+        }
+      ]
     },
     {
       "cityName": {
@@ -25,7 +43,25 @@
       "cityDesc": "베트남 남부의 가장 큰 도시로, 현대적인 고층 빌딩과 역사적인 프랑스 식민지 시대 건축물이 공존하는 도시",
       "combinedCode": "VN-Ho_Chi_Minh_City",
       "dryMonths": [12, 1, 2, 3],
-      "rainyMonths": [4, 5, 6, 7, 8, 9, 10, 11]
+      "rainyMonths": [4, 5, 6, 7, 8, 9, 10, 11],
+      "touristSpot": [
+        {
+          "spotName": {
+            "ko": "쿠찌 터널",
+            "en": "Cu Chi Tunnels"
+          },
+          "spotDesc": "베트남 전쟁 당시 사용되었던 지하 터널 시스템으로, 역사적인 중요성을 지니고 있습니다.",
+          "spotImg": "쿠찌 터널 대표 이미지 URL"
+        },
+        {
+          "spotName": {
+            "ko": "벤탄 시장",
+            "en": "Ben Thanh Market"
+          },
+          "spotDesc": "호치민시의 유명한 전통 시장으로, 다양한 물품과 베트남 음식을 즐길 수 있습니다.",
+          "spotImg": "벤탄 시장 대표 이미지 URL"
+        }
+      ]
     },
     {
       "cityName": {
@@ -35,7 +71,25 @@
       "cityDesc": "베트남 중부에 위치한 해변 도시로, 현대적인 리조트와 미케 해변, 바나 힐 등이 인기 있는 관광지",
       "combinedCode": "VN-Da_Nang",
       "dryMonths": [1, 2, 3],
-      "rainyMonths": [9, 10, 11, 12]
+      "rainyMonths": [9, 10, 11, 12],
+      "touristSpot": [
+        {
+          "spotName": {
+            "ko": "미케 해변",
+            "en": "My Khe Beach"
+          },
+          "spotDesc": "다낭의 아름다운 해변으로, 흰 모래사장과 맑은 물이 매력적인 휴양지입니다.",
+          "spotImg": "미케 해변 대표 이미지 URL"
+        },
+        {
+          "spotName": {
+            "ko": "마블 마운틴",
+            "en": "Marble Mountains"
+          },
+          "spotDesc": "다낭 근교에 위치한 석회암 언덕과 동굴로, 아름다운 전망과 사원이 있는 곳입니다.",
+          "spotImg": "마블 마운틴 대표 이미지 URL"
+        }
+      ]
     },
     {
       "cityName": {
@@ -45,7 +99,17 @@
       "cityDesc": "유네스코 세계 자연 유산으로 지정된 해안선과 수천 개의 석회암 섬으로 구성된 자연 경관이 유명한 곳",
       "combinedCode": "VN-Ha_Long_Bay",
       "dryMonths": [11, 12, 1, 2],
-      "rainyMonths": [5, 6, 7, 8, 9, 10]
+      "rainyMonths": [5, 6, 7, 8, 9, 10],
+      "touristSpot": [
+        {
+          "spotName": {
+            "ko": "하롱베이",
+            "en": "Ha Long Bay"
+          },
+          "spotDesc": "유네스코 세계 자연 유산으로, 수천 개의 석회암 섬과 에메랄드 빛 바다가 특징인 자연 경관입니다.",
+          "spotImg": "하롱베이 대표 이미지 URL"
+        }
+      ]
     },
     {
       "cityName": {
@@ -55,7 +119,17 @@
       "cityDesc": "베트남 중부에 위치한 이전 수도로, 유서 깊은 유적과 황실 궁전이 남아 있는 역사적인 도시",
       "combinedCode": "VN-Hue",
       "dryMonths": [1, 2, 3],
-      "rainyMonths": [9, 10, 11, 12]
+      "rainyMonths": [9, 10, 11, 12],
+      "touristSpot": [
+        {
+          "spotName": {
+            "ko": "후에 고성",
+            "en": "Hue Imperial City"
+          },
+          "spotDesc": "베트남의 고대 수도 후에의 중심에 위치한 역사적인 고성으로, 유네스코 세계 문화 유산에 등재되어 있습니다.",
+          "spotImg": "후에 고성 대표 이미지 URL"
+        }
+      ]
     }
   ]
 }

@@ -15,7 +15,25 @@
       "cityDesc": "태국의 수도로, 활기찬 도시 생활과 역사적인 사원, 시장, 화려한 야경이 어우러진 도시",
       "combinedCode": "TH-Bangkok",
       "dryMonths": [11, 12, 1, 2, 3],
-      "rainyMonths": [5, 6, 7, 8, 9, 10, 4]
+      "rainyMonths": [5, 6, 7, 8, 9, 10, 4],
+      "touristSpot": [
+        {
+          "spotName": {
+            "ko": "왓 아룬",
+            "en": "Wat Arun"
+          },
+          "spotDesc": "총총한 스투파가 있는 방콕의 상징적인 사원으로, 차오프라야 강변에 위치해 있습니다.",
+          "spotImg": "왓 아룬 대표 이미지 URL"
+        },
+        {
+          "spotName": {
+            "ko": "왓 포",
+            "en": "Wat Pho"
+          },
+          "spotDesc": "대형 누워있는 불상으로 유명한 사원이며, 태국 전통 마사지의 발상지입니다.",
+          "spotImg": "왓 포 대표 이미지 URL"
+        }
+      ]
     },
     {
       "cityName": {
@@ -25,7 +43,25 @@
       "cityDesc": "태국 북부의 역사적인 도시로, 아름다운 사원과 자연 경관, 전통 공예품으로 유명",
       "combinedCode": "TH-Chiang_Mai",
       "dryMonths": [11, 12, 1, 2, 3],
-      "rainyMonths": [5, 6, 7, 8, 9, 10, 4]
+      "rainyMonths": [5, 6, 7, 8, 9, 10, 4],
+      "touristSpot": [
+        {
+          "spotName": {
+            "ko": "도이 수텝",
+            "en": "Doi Suthep"
+          },
+          "spotDesc": "치앙마이 시내에서 볼 수 있는 산에 위치한 유명한 사원으로, 멋진 전망을 자랑합니다.",
+          "spotImg": "도이 수텝 대표 이미지 URL"
+        },
+        {
+          "spotName": {
+            "ko": "치앙마이 야시장",
+            "en": "Chiang Mai Night Bazaar"
+          },
+          "spotDesc": "다양한 물건과 음식을 저렴한 가격에 살 수 있는 활기찬 야시장입니다.",
+          "spotImg": "치앙마이 야시장 대표 이미지 URL"
+        }
+      ]
     },
     {
       "cityName": {
@@ -35,7 +71,25 @@
       "cityDesc": "태국 남부의 대표적인 휴양지로, 아름다운 해변과 다양한 해양 스포츠, 열대 정글이 특징",
       "combinedCode": "TH-Phuket",
       "dryMonths": [11, 12, 1, 2, 3],
-      "rainyMonths": [5, 6, 7, 8, 9, 10, 4]
+      "rainyMonths": [5, 6, 7, 8, 9, 10, 4],
+      "touristSpot": [
+        {
+          "spotName": {
+            "ko": "파통 비치",
+            "en": "Patong Beach"
+          },
+          "spotDesc": "푸켓에서 가장 유명한 해변으로, 활발한 나이트라이프와 수많은 레스토랑, 쇼핑센터가 있습니다.",
+          "spotImg": "파통 비치 대표 이미지 URL"
+        },
+        {
+          "spotName": {
+            "ko": "피피 섬",
+            "en": "Phi Phi Islands"
+          },
+          "spotDesc": "푸켓에서 배로 쉽게 갈 수 있는 아름다운 섬으로, 맑은 물과 아름다운 해변이 특징입니다.",
+          "spotImg": "피피 섬 대표 이미지 URL"
+        }
+      ]
     },
     {
       "cityName": {
@@ -45,7 +99,25 @@
       "cityDesc": "태국의 주요 해변 휴양지 중 하나로, 활발한 나이트라이프와 수상 스포츠로 유명",
       "combinedCode": "TH-Pattaya",
       "dryMonths": [11, 12, 1, 2, 3],
-      "rainyMonths": [5, 6, 7, 8, 9, 10, 4]
+      "rainyMonths": [5, 6, 7, 8, 9, 10, 4],
+      "touristSpot": [
+        {
+          "spotName": {
+            "ko": "워킹 스트리트",
+            "en": "Walking Street"
+          },
+          "spotDesc": "파타야의 유명한 유흥가로, 다양한 바, 레스토랑, 나이트클럽이 모여 있습니다.",
+          "spotImg": "워킹 스트리트 대표 이미지 URL"
+        },
+        {
+          "spotName": {
+            "ko": "산크투어리 오브 트루스",
+            "en": "Sanctuary of Truth"
+          },
+          "spotDesc": "나무로 만들어진 거대한 사원으로, 독특한 건축 양식과 조각상으로 유명합니다.",
+          "spotImg": "산크투어리 오브 트루스 대표 이미지 URL"
+        }
+      ]
     },
     {
       "cityName": {
@@ -55,7 +127,17 @@
       "cityDesc": "태국의 고대 수도로, 유네스코 세계 문화유산에 등재된 역사적인 유적지",
       "combinedCode": "TH-Ayutthaya",
       "dryMonths": [11, 12, 1, 2, 3],
-      "rainyMonths": [5, 6, 7, 8, 9, 10, 4]
+      "rainyMonths": [5, 6, 7, 8, 9, 10, 4],
+      "touristSpot": [
+        {
+          "spotName": {
+            "ko": "아유타야 역사 공원",
+            "en": "Ayutthaya Historical Park"
+          },
+          "spotDesc": "태국의 고대 수도였던 아유타야의 유적지로, 다양한 사원과 유적들이 남아 있습니다.",
+          "spotImg": "아유타야 역사 공원 대표 이미지 URL"
+        }
+      ]
     }
   ]
 }
