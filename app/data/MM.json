@@ -23,7 +23,7 @@
             "en": "Shwedagon Pagoda"
           },
           "spotDesc": "양곤의 상징적인 불교 사원으로, 화려한 황금색 스투파가 인상적입니다.",
-          "spotImg": "쉐다곤 파고다 대표 이미지 URL"
+          "spotImg": ""
         },
         {
           "spotName": {
@@ -31,7 +31,7 @@
             "en": "Inya Lake"
           },
           "spotDesc": "양곤의 대표적인 휴식 공간으로, 아름다운 호수와 주변 경관을 즐길 수 있습니다.",
-          "spotImg": "인야 호수 대표 이미지 URL"
+          "spotImg": ""
         },
         {
           "spotName": {
@@ -39,7 +39,7 @@
             "en": "Bogyoke Aung San Market"
           },
           "spotDesc": "다양한 전통 공예품, 보석, 의류 등을 구입할 수 있는 유명한 시장입니다.",
-          "spotImg": "보쟈 마켓 대표 이미지 URL"
+          "spotImg": ""
         }
       ]
     },
@@ -59,7 +59,7 @@
             "en": "Mandalay Hill"
           },
           "spotDesc": "만달레이 시내를 한눈에 조망할 수 있는 언덕으로, 많은 사원과 파고다가 있습니다.",
-          "spotImg": "만달레이 언덕 대표 이미지 URL"
+          "spotImg": ""
         },
         {
           "spotName": {
@@ -67,7 +67,7 @@
             "en": "Mahamuni Pagoda"
           },
           "spotDesc": "마하무니 불상이 있는 중요한 불교 사원입니다.",
-          "spotImg": "마하무니 파고다 대표 이미지 URL"
+          "spotImg": ""
         }
       ]
     },
@@ -87,7 +87,7 @@
             "en": "Ananda Temple"
           },
           "spotDesc": "바간에서 가장 중요하고 아름다운 사원 중 하나로, 독특한 건축 양식을 자랑합니다.",
-          "spotImg": "아난다 사원 대표 이미지 URL"
+          "spotImg": ""
         },
         {
           "spotName": {
@@ -95,7 +95,7 @@
             "en": "Dhammayangyi Temple"
           },
           "spotDesc": "바간에서 가장 큰 규모의 사원으로, 장엄한 모습이 인상적입니다.",
-          "spotImg": "다마야지 대표 이미지 URL"
+          "spotImg": ""
         }
       ]
     },
@@ -115,7 +115,7 @@
             "en": "Inle Lake"
           },
           "spotDesc": "수상 가옥과 정원, 전통적인 어로 방식으로 유명한 평화로운 호수입니다.",
-          "spotImg": "인레 호수 대표 이미지 URL"
+          "spotImg": ""
         },
         {
           "spotName": {
@@ -123,7 +123,7 @@
             "en": "Indein Village"
           },
           "spotDesc": "호수 근처에 위치한 전통적인 마을로, 많은 스투파와 파고다가 있습니다.",
-          "spotImg": "인덴 마을 대표 이미지 URL"
+          "spotImg": ""
         }
       ]
     }

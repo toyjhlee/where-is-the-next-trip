@@ -23,7 +23,7 @@
             "en": "Patuxai"
           },
           "spotDesc": "비엔티안의 상징적인 기념탑으로, 독특한 라오스 스타일의 아름다움을 자랑합니다.",
-          "spotImg": "파투사이 대표 이미지 URL"
+          "spotImg": ""
         },
         {
           "spotName": {
@@ -31,7 +31,7 @@
             "en": "Pha That Luang"
           },
           "spotDesc": "라오스의 가장 중요한 국립 기념물로, 화려한 황금색 스투파가 인상적인 불교 사원입니다.",
-          "spotImg": "탓루앙 대표 이미지 URL"
+          "spotImg": ""
         },
         {
           "spotName": {
@@ -39,7 +39,7 @@
             "en": "Buddha Park"
           },
           "spotDesc": "기이하고 다양한 불상과 힌두교 조각상이 있는 공원으로, 독특한 예술 작품을 감상할 수 있습니다.",
-          "spotImg": "부다 파크 대표 이미지 URL"
+          "spotImg": ""
         }
       ]
     },
@@ -59,7 +59,7 @@
             "en": "Wat Xiengthong"
           },
           "spotDesc": "루앙프라방에서 가장 유명한 사원 중 하나로, 전통 라오스 건축 양식의 절정을 보여줍니다.",
-          "spotImg": "왓 시엥통 대표 이미지 URL"
+          "spotImg": ""
         },
         {
           "spotName": {
@@ -67,7 +67,7 @@
             "en": "Kuang Si Falls"
           },
           "spotDesc": "천연 수영장과 폭포로 유명한 아름다운 자연 명소입니다.",
-          "spotImg": "쿠앙시 폭포 대표 이미지 URL"
+          "spotImg": ""
         },
         {
           "spotName": {
@@ -75,7 +75,7 @@
             "en": "Royal Palace Museum"
           },
           "spotDesc": "루앙프라방의 전 왕궁이었으며, 현재는 박물관으로 운영되고 있습니다.",
-          "spotImg": "로열 팰리스 박물관 대표 이미지 URL"
+          "spotImg": ""
         }
       ]
     },
@@ -95,7 +95,7 @@
             "en": "Blue Lagoon"
           },
           "spotDesc": "맑고 푸른 물이 매력적인 자연 수영장으로, 수영과 휴식을 즐길 수 있는 인기 있는 장소입니다.",
-          "spotImg": "블루 라군 대표 이미지 URL"
+          "spotImg": ""
         },
         {
           "spotName": {
@@ -103,7 +103,7 @@
             "en": "Tham Jang Cave"
           },
           "spotDesc": "방비엥 주변의 아름다운 동굴 중 하나로, 역사적인 중요성을 갖고 있습니다.",
-          "spotImg": "탐 잠 동굴 대표 이미지 URL"
+          "spotImg": ""
         }
       ]
     }

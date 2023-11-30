@@ -48,11 +48,14 @@ export default function Page({ params }: { params: PageParams }) {
                             className="rounded-lg border border-gray-200 shadow-lg"
                             key={spot.spotName.en}
                           >
-                            {/* <img
-                              className="h-40 w-full object-cover"
-                              src="tourist-attraction-image.jpg"
-                              alt="관광지 이미지"
-                            /> */}
+                            {spot.spotImg != '' && spot.spotImg[0] && (
+                              <img
+                                className="h-40 w-full rounded-t-lg object-cover"
+                                src={spot.spotImg[0]}
+                                alt="관광지 이미지"
+                              />
+                            )}
+
                             <div className="p-4">
                               <h4 className="mb-2 text-lg font-medium text-gray-800">
                                 {spot.spotName.ko}

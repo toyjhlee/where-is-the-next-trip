@@ -23,7 +23,7 @@
             "en": "Petronas Twin Towers"
           },
           "spotDesc": "쿠알라룸푸르의 상징적인 건축물로, 세계에서 가장 높은 쌍둥이 타워입니다.",
-          "spotImg": "페트로나스 트윈 타워 대표 이미지 URL"
+          "spotImg": ""
         },
         {
           "spotName": {
@@ -31,7 +31,7 @@
             "en": "Batu Caves"
           },
           "spotDesc": "쿠알라룸푸르 근교에 위치한 힌두교 사원으로, 대규모의 동굴과 화려한 조각상이 특징인 곳입니다.",
-          "spotImg": "바투 동굴 대표 이미지 URL"
+          "spotImg": ""
         }
       ]
     },
@@ -51,7 +51,7 @@
             "en": "Penang Street Art"
           },
           "spotDesc": "조지타운의 거리 곳곳에 펼쳐진 독특한 벽화와 예술 작품들이 관광객들의 사랑을 받고 있습니다.",
-          "spotImg": "페낭 거리 예술 대표 이미지 URL"
+          "spotImg": ""
         },
         {
           "spotName": {
@@ -59,7 +59,7 @@
             "en": "Penang Hill"
           },
           "spotDesc": "조지타운에서 케이블카를 타고 오를 수 있는 언덕으로, 멋진 전망과 시원한 날씨가 특징입니다.",
-          "spotImg": "페낭 힐 대표 이미지 URL"
+          "spotImg": ""
         }
       ]
     },
@@ -79,7 +79,7 @@
             "en": "A Famosa Fort"
           },
           "spotDesc": "포르투갈 식민지 시대의 유적으로, 말라카의 역사적 중요성을 대변하는 곳입니다.",
-          "spotImg": "아파모사 요새 대표 이미지 URL"
+          "spotImg": ""
         },
         {
           "spotName": {
@@ -87,7 +87,7 @@
             "en": "Jonker Street"
           },
           "spotDesc": "말라카의 유명한 쇼핑과 음식 거리로, 전통 공예품과 맛있는 로컬 음식을 즐길 수 있습니다.",
-          "spotImg": "조나커 스트리트 대표 이미지 URL"
+          "spotImg": ""
         }
       ]
     },
@@ -107,7 +107,7 @@
             "en": "Mount Kinabalu"
           },
           "spotDesc": "말레이시아에서 가장 높은 산으로, 등산객들에게 인기 있는 명소입니다.",
-          "spotImg": "키나발루 산 대표 이미지 URL"
+          "spotImg": ""
         },
         {
           "spotName": {
@@ -115,7 +115,7 @@
             "en": "Tanjung Aru Beach"
           },
           "spotDesc": "코타키나발루의 아름다운 해변으로, 환상적인 일몰을 감상할 수 있습니다.",
-          "spotImg": "탄중아루 비치 대표 이미지 URL"
+          "spotImg": ""
         }
       ]
     },
@@ -135,7 +135,7 @@
             "en": "Langkawi Cable Car"
           },
           "spotDesc": "랑카위 섬의 전망을 한눈에 볼 수 있는 케이블카로, 놀라운 경치를 자랑합니다.",
-          "spotImg": "랑카위 케이블카 대표 이미지 URL"
+          "spotImg": ""
         },
         {
           "spotName": {
@@ -143,7 +143,7 @@
             "en": "Sky Bridge"
           },
           "spotDesc": "아름다운 산악 지형 위에 위치한 유리 바닥의 다리로, 탁 트인 전망을 즐길 수 있습니다.",
-          "spotImg": "스카이브릿지 대표 이미지 URL"
+          "spotImg": ""
         }
       ]
     }

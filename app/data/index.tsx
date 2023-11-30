@@ -28,7 +28,8 @@ type SpotData = {
     ko: string
   }
   spotDesc: string
-  spotImg: string
+  spotImg: string | string[]
+  guideUrl?: string | string[]
 }
 
 type CityData = {

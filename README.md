@@ -46,3 +46,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 with ChatGPT
 폴더 app/data
 지역 동남아(인도네시아, 캄보디아, 라오스, 미얀마, 말레이시아, 필리핀, 타이, 베트남)
+
+### Image
+
+[unsplash](https://unsplash.com/ko)
+[pexels](https://www.pexels.com/ko-kr/)
+[stock adobe](https://stock.adobe.com/kr/)

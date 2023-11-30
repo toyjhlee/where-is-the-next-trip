@@ -23,7 +23,7 @@
             "en": "Hoan Kiem Lake"
           },
           "spotDesc": "하노이의 중심에 위치한 아름다운 호수로, 주변에는 많은 역사적인 건축물과 카페가 있습니다.",
-          "spotImg": "호안끼엠 호수 대표 이미지 URL"
+          "spotImg": ""
         },
         {
           "spotName": {
@@ -31,7 +31,7 @@
             "en": "Hanoi Old Quarter"
           },
           "spotDesc": "하노이의 전통적인 상업 지구로, 다양한 상점, 레스토랑, 역사적인 장소가 즐비한 곳입니다.",
-          "spotImg": "하노이 올드 쿼터 대표 이미지 URL"
+          "spotImg": ""
         }
       ]
     },
@@ -51,7 +51,7 @@
             "en": "Cu Chi Tunnels"
           },
           "spotDesc": "베트남 전쟁 당시 사용되었던 지하 터널 시스템으로, 역사적인 중요성을 지니고 있습니다.",
-          "spotImg": "쿠찌 터널 대표 이미지 URL"
+          "spotImg": ""
         },
         {
           "spotName": {
@@ -59,7 +59,7 @@
             "en": "Ben Thanh Market"
           },
           "spotDesc": "호치민시의 유명한 전통 시장으로, 다양한 물품과 베트남 음식을 즐길 수 있습니다.",
-          "spotImg": "벤탄 시장 대표 이미지 URL"
+          "spotImg": ""
         }
       ]
     },
@@ -79,7 +79,7 @@
             "en": "My Khe Beach"
           },
           "spotDesc": "다낭의 아름다운 해변으로, 흰 모래사장과 맑은 물이 매력적인 휴양지입니다.",
-          "spotImg": "미케 해변 대표 이미지 URL"
+          "spotImg": ""
         },
         {
           "spotName": {
@@ -87,7 +87,7 @@
             "en": "Marble Mountains"
           },
           "spotDesc": "다낭 근교에 위치한 석회암 언덕과 동굴로, 아름다운 전망과 사원이 있는 곳입니다.",
-          "spotImg": "마블 마운틴 대표 이미지 URL"
+          "spotImg": ""
         }
       ]
     },
@@ -107,7 +107,7 @@
             "en": "Ha Long Bay"
           },
           "spotDesc": "유네스코 세계 자연 유산으로, 수천 개의 석회암 섬과 에메랄드 빛 바다가 특징인 자연 경관입니다.",
-          "spotImg": "하롱베이 대표 이미지 URL"
+          "spotImg": ""
         }
       ]
     },
@@ -127,7 +127,7 @@
             "en": "Hue Imperial City"
           },
           "spotDesc": "베트남의 고대 수도 후에의 중심에 위치한 역사적인 고성으로, 유네스코 세계 문화 유산에 등재되어 있습니다.",
-          "spotImg": "후에 고성 대표 이미지 URL"
+          "spotImg": ""
         }
       ]
     }

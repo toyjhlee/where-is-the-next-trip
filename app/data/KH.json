@@ -23,7 +23,7 @@
             "en": "Royal Palace"
           },
           "spotDesc": "프놈펜의 상징적인 건축물로, 화려한 장식과 전통적인 캄보디아 건축 양식이 특징입니다.",
-          "spotImg": "왕궁 대표 이미지 URL"
+          "spotImg": ""
         },
         {
           "spotName": {
@@ -31,7 +31,7 @@
             "en": "Killing Fields"
           },
           "spotDesc": "캄보디아 역사의 어두운 시기를 기억하는 중요한 역사적 장소입니다.",
-          "spotImg": "킬링 필드 대표 이미지 URL"
+          "spotImg": ""
         },
         {
           "spotName": {
@@ -39,7 +39,7 @@
             "en": "National Museum"
           },
           "spotDesc": "캄보디아의 역사와 문화를 한눈에 볼 수 있는 박물관입니다.",
-          "spotImg": "국립박물관 대표 이미지 URL"
+          "spotImg": ""
         }
       ]
     },
@@ -59,7 +59,7 @@
             "en": "Angkor Wat"
           },
           "spotDesc": "세계 최대의 종교적 건축물로, 캄보디아의 상징적인 유적지입니다.",
-          "spotImg": "앙코르 와트 대표 이미지 URL"
+          "spotImg": ""
         },
         {
           "spotName": {
@@ -67,7 +67,7 @@
             "en": "Angkor Thom"
           },
           "spotDesc": "고대 캄보디아의 마지막 수도로, 유명한 '바욘 사원'이 위치한 곳입니다.",
-          "spotImg": "앙코르 톰 대표 이미지 URL"
+          "spotImg": ""
         },
         {
           "spotName": {
@@ -75,7 +75,7 @@
             "en": "Ta Prohm"
           },
           "spotDesc": "거대한 나무 뿌리가 사원을 감싸고 있는 신비로운 분위기의 유적지입니다.",
-          "spotImg": "타 프롬 대표 이미지 URL"
+          "spotImg": ""
         }
       ]
     },
@@ -95,7 +95,7 @@
             "en": "Otres Beach"
           },
           "spotDesc": "캄보디아에서 가장 아름다운 해변 중 하나로, 깨끗한 모래와 맑은 물이 특징인 휴양지입니다.",
-          "spotImg": "오테스 해변 대표 이미지 URL"
+          "spotImg": ""
         },
         {
           "spotName": {
@@ -103,7 +103,7 @@
             "en": "Koh Rong"
           },
           "spotDesc": "캄퐁 썸에서 배로 이동할 수 있는 아름다운 섬으로, 자연 그대로의 해변과 열대 정글을 경험할 수 있습니다.",
-          "spotImg": "코 롱 대표 이미지 URL"
+          "spotImg": ""
         }
       ]
     }
