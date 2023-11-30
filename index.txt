@@ -1,6 +1,6 @@
 1:HL["/where-is-the-next-trip/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:HL["/where-is-the-next-trip/_next/static/css/adfb115debde18d1.css","style",{"crossOrigin":""}]
-0:["BhQIGBKUOHHJSUdhPgNUu",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/where-is-the-next-trip/_next/static/css/adfb115debde18d1.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+0:["SWCgzsMWsYJWROHaP9i8w",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/where-is-the-next-trip/_next/static/css/adfb115debde18d1.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:I[8326,["326","static/chunks/326-86c6ecd990640206.js","931","static/chunks/app/page-23087a0600e610f8.js"],""]
 6:I[6954,[],""]
 7:I[7264,[],""]
