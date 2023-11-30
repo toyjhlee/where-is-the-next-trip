@@ -16,6 +16,11 @@ export default function Page({ params }: { params: PageParams }) {
     <>
       <h1 className="text-xl font-semibold">{`${currentMonth}월에 건기인 동남아 도시`}</h1>
 
+      <article className="mb-4 mt-4">
+        <header className="text-lg font-semibold">다른 월 선택</header>
+        <MonthSelector selectMonth={currentMonth} />
+      </article>
+
       <ul className="space-y-4">
         {listArr.map(({ country, cityList }: CountryDate) => {
           const countryNameKo = country.countryName.ko
