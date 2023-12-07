@@ -4,7 +4,8 @@
       "en": "Cambodia",
       "ko": "캄보디아"
     },
-    "countryCode": "KH"
+    "countryCode": "KH",
+    "guideUrl": "https://skyangkorair.com/destination.php?cat=2&id=9&lng=KR"
   },
   "cityList": [
     {
@@ -16,6 +17,7 @@
       "combinedCode": "KH-Phnom_Penh",
       "dryMonths": [11, 12, 1, 2, 3, 4],
       "rainyMonths": [5, 6, 7, 8, 9, 10],
+      "locationId": "064970",
       "touristSpot": [
         {
           "spotName": {
@@ -52,6 +54,7 @@
       "combinedCode": "KH-Siem_Reap",
       "dryMonths": [11, 12, 1, 2, 3, 4],
       "rainyMonths": [5, 6, 7, 8, 9, 10],
+      "locationId": "064979",
       "touristSpot": [
         {
           "spotName": {
@@ -81,17 +84,18 @@
     },
     {
       "cityName": {
-        "ko": "캄퐁 썸",
+        "ko": "시아누크빌",
         "en": "Sihanoukville"
       },
       "cityDesc": "캄보디아의 주요 항구도시로, 아름다운 해변과 휴양지로 유명",
       "combinedCode": "KH-Sihanoukville",
       "dryMonths": [11, 12, 1, 2, 3, 4],
       "rainyMonths": [5, 6, 7, 8, 9, 10],
+      "locationId": "064980",
       "touristSpot": [
         {
           "spotName": {
-            "ko": "오테스 해변",
+            "ko": "오트레 해변",
             "en": "Otres Beach"
           },
           "spotDesc": "캄보디아에서 가장 아름다운 해변 중 하나로, 깨끗한 모래와 맑은 물이 특징인 휴양지입니다.",

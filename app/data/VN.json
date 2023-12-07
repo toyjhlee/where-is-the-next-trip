@@ -16,6 +16,7 @@
       "combinedCode": "VN-Hanoi",
       "dryMonths": [11, 12, 1, 2],
       "rainyMonths": [5, 6, 7, 8, 9, 10],
+      "locationId": "130201",
       "touristSpot": [
         {
           "spotName": {
@@ -44,6 +45,7 @@
       "combinedCode": "VN-Ho_Chi_Minh_City",
       "dryMonths": [12, 1, 2, 3],
       "rainyMonths": [4, 5, 6, 7, 8, 9, 10, 11],
+      "locationId": "130202",
       "touristSpot": [
         {
           "spotName": {
@@ -72,6 +74,7 @@
       "combinedCode": "VN-Da_Nang",
       "dryMonths": [1, 2, 3],
       "rainyMonths": [9, 10, 11, 12],
+      "locationId": "130195",
       "touristSpot": [
         {
           "spotName": {
@@ -100,6 +103,7 @@
       "combinedCode": "VN-Ha_Long_Bay",
       "dryMonths": [11, 12, 1, 2],
       "rainyMonths": [5, 6, 7, 8, 9, 10],
+      "locationId": "130561",
       "touristSpot": [
         {
           "spotName": {
@@ -120,6 +124,7 @@
       "combinedCode": "VN-Hue",
       "dryMonths": [1, 2, 3],
       "rainyMonths": [9, 10, 11, 12],
+      "locationId": "130554",
       "touristSpot": [
         {
           "spotName": {

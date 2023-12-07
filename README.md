@@ -52,3 +52,9 @@ with ChatGPT
 [unsplash](https://unsplash.com/ko)
 [pexels](https://www.pexels.com/ko-kr/)
 [stock adobe](https://stock.adobe.com/kr/)
+
+### 날씨
+
+[tomorrow.io](https://www.tomorrow.io/weather/ko/widget) 을 활용하여 표현
+
+- 위치 검색이 안 되는 경우 [국가 인텍스](https://www.tomorrow.io/weather/ko/countries) 로 찾아서 url 의 location_id 추출

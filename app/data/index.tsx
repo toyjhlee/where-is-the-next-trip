@@ -20,6 +20,7 @@ type CountryDate = {
     countryCode: string
   }
   cityList: CityData[]
+  guideUrl?: string | string[]
 }
 
 type SpotData = {
@@ -41,6 +42,7 @@ type CityData = {
   combinedCode?: string // ISO 3166-2 코드로 표현, 도시별로 특정한 ISO 3166-2 코드가 존재하지 않을 도시의 이름을 _ 로 붙힘
   // 주요 관광지 추가하자
   dryMonths: number[]
+  locationId?: string
   rainyMonths: number[]
   touristSpot: SpotData[]
 }

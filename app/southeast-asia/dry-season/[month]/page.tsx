@@ -3,6 +3,8 @@ import { cityByCountry, CountryDate, CityData, SpotData } from '../../../data'
 import { MonthSelector } from '../../../../app/components/SharedComponent'
 import React from 'react'
 
+import TomorrowWidget from '../../../../app/components/TomorrowWidget.client'
+
 type PageParams = {
   month: string
 }
@@ -12,6 +14,7 @@ export default function Page({ params }: { params: PageParams }) {
   const listArr = cityByCountry()
 
   const currentMonth = Number(params.month)
+
   return (
     <>
       <h1 className="text-xl font-semibold">{`${currentMonth}월에 건기인 동남아 도시`}</h1>
@@ -31,7 +34,6 @@ export default function Page({ params }: { params: PageParams }) {
           return (
             <React.Fragment key={countryNameKo}>
               {/* <h2 className="text-lg font-semibold">{countryNameKo}</h2> */}
-
               {showList.map((obj: CityData) => {
                 return (
                   <li key={`${obj.combinedCode}`}>
@@ -71,6 +73,10 @@ export default function Page({ params }: { params: PageParams }) {
                         )
                       })}
                     </div>
+
+                    {obj.locationId && (
+                      <TomorrowWidget locationId={obj.locationId} />
+                    )}
                   </li>
                 )
               })}
