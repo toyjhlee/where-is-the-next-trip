@@ -63,6 +63,19 @@ export default function Page({ params }: { params: PageParams }) {
                       건기인 월: 11월 - 4월
                     </p> */}
 
+                    {obj.guideUrl && obj.guideUrl.length != 0 && (
+                      <article className="mb-2">
+                        <h3>링크들</h3>
+                        {obj.guideUrl?.map(({ text, url }, i) => {
+                          return (
+                            <a href={url} key={i} target="_blank">
+                              {text}
+                            </a>
+                          )
+                        })}
+                      </article>
+                    )}
+
                     <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
                       {obj.touristSpot.map((spot: SpotData) => {
                         return (
