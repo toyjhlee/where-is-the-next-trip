@@ -24,6 +24,20 @@ export default function Page({ params }: { params: PageParams }) {
         <MonthSelector selectMonth={currentMonth} />
       </article>
 
+      <article>
+        {listArr.map(({ country, cityList }: CountryDate) => {
+          return (
+            <a
+              key={country.countryCode}
+              href={`#${country.countryCode}`}
+              className="mr-2"
+            >
+              {country.countryName.ko}
+            </a>
+          )
+        })}
+      </article>
+
       <ul className="space-y-4">
         {listArr.map(({ country, cityList }: CountryDate) => {
           const countryNameKo = country.countryName.ko
@@ -33,6 +47,7 @@ export default function Page({ params }: { params: PageParams }) {
 
           return (
             <React.Fragment key={countryNameKo}>
+              <div id={country.countryCode} />
               {/* <h2 className="text-lg font-semibold">{countryNameKo}</h2> */}
               {showList.map((obj: CityData) => {
                 return (
