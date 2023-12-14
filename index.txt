@@ -1,6 +1,6 @@
 1:HL["/where-is-the-next-trip/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-2:HL["/where-is-the-next-trip/_next/static/css/ba54891b0784636f.css","style",{"crossOrigin":""}]
-0:["4w-XB51wyAHT4GufQlBBT",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/where-is-the-next-trip/_next/static/css/ba54891b0784636f.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
+2:HL["/where-is-the-next-trip/_next/static/css/1171f51d99c02228.css","style",{"crossOrigin":""}]
+0:["gZsUcnuK8NTTbVUNZDlvX",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L3",[[["$","link","0",{"rel":"stylesheet","href":"/where-is-the-next-trip/_next/static/css/1171f51d99c02228.css","precedence":"next","crossOrigin":""}]],"$L4"]]]]
 5:I[8326,["326","static/chunks/326-f7ddbea4f8bbbb4d.js","931","static/chunks/app/page-552c7edc2415f68e.js"],""]
 6:I[6954,[],""]
 7:I[7264,[],""]
