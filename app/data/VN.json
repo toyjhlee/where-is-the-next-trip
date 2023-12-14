@@ -17,6 +17,12 @@
       "dryMonths": [11, 12, 1, 2],
       "rainyMonths": [5, 6, 7, 8, 9, 10],
       "locationId": "130201",
+      "guideUrl": [
+        {
+          "text": "하노이2박3일 - 하노이에서 3일의 완벽한 일정 추천",
+          "url": "https://vinpearl.com/ko/%ED%95%98%EB%85%B8%EC%9D%B42%EB%B0%953%EC%9D%BC"
+        }
+      ],
       "touristSpot": [
         {
           "spotName": {
@@ -24,15 +30,44 @@
             "en": "Hoan Kiem Lake"
           },
           "spotDesc": "하노이의 중심에 위치한 아름다운 호수로, 주변에는 많은 역사적인 건축물과 카페가 있습니다.",
-          "spotImg": ""
+          "spotImg": "https://statics.vinpearl.com/ha-noi-3-ngay-2-dem_1659059131.jpg",
+          "guideUrl": []
         },
         {
           "spotName": {
-            "ko": "하노이 올드 쿼터",
-            "en": "Hanoi Old Quarter"
+            "ko": "하노이 문묘",
+            "en": "Temple of Literature"
           },
-          "spotDesc": "하노이의 전통적인 상업 지구로, 다양한 상점, 레스토랑, 역사적인 장소가 즐비한 곳입니다.",
-          "spotImg": ""
+          "spotDesc": "베트남 최초의 대학으로, 고요하고 평화로운 정원, 산책로, 사원 및 기념관이 있는 역사적인 장소입니다.",
+          "spotImg": "https://statics.vinpearl.com/%ED%95%98%EB%85%B8%EC%9D%B42%EB%B0%953%EC%9D%BC-15_1659059263.jpg",
+          "guideUrl": []
+        },
+        {
+          "spotName": {
+            "ko": "호치민묘",
+            "en": "Ho Chi Minh Mausoleum"
+          },
+          "spotDesc": "베트남의 국부 호치민의 묘소로, 베트남의 역사와 문화를 상징하는 중요한 장소입니다.",
+          "spotImg": "https://statics.vinpearl.com/%ED%95%98%EB%85%B8%EC%9D%B42%EB%B0%953%EC%9D%BC-11_1659059303.jpg",
+          "guideUrl": []
+        },
+        {
+          "spotName": {
+            "ko": "탕롱 황성",
+            "en": "Thang Long Imperial Citadel"
+          },
+          "spotDesc": "베트남의 역사와 문화를 대표하는 중요한 유적지로, 다양한 역사적 건축물과 유물을 볼 수 있는 곳입니다.",
+          "spotImg": "https://statics.vinpearl.com/%ED%95%98%EB%85%B8%EC%9D%B42%EB%B0%953%EC%9D%BC-13_1659061769.jpg",
+          "guideUrl": []
+        },
+        {
+          "spotName": {
+            "ko": "빈케 & 빈펄 아쿠아리움 타임즈 시티",
+            "en": "VinKE & Vinpearl Aquarium Times City"
+          },
+          "spotDesc": "현대적인 수족관과 가족이 즐길 수 있는 엔터테인먼트 시설이 결합된 하노이의 인기 있는 관광지입니다.",
+          "spotImg": "https://statics.vinpearl.com/ha-noi-3-ngay-2-dem_1659059131.jpg",
+          "guideUrl": []
         }
       ]
     },

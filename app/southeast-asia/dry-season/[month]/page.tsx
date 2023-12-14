@@ -83,10 +83,14 @@ export default function Page({ params }: { params: PageParams }) {
                             className="rounded-lg border border-gray-200 shadow-lg"
                             key={spot.spotName.en}
                           >
-                            {spot.spotImg != '' && spot.spotImg[0] && (
+                            {spot.spotImg && spot.spotImg[0] && (
                               <img
                                 className="h-40 w-full rounded-t-lg object-cover"
-                                src={spot.spotImg[0]}
+                                src={
+                                  Array.isArray(spot.spotImg)
+                                    ? spot.spotImg[0]
+                                    : spot.spotImg
+                                }
                                 alt="관광지 이미지"
                               />
                             )}

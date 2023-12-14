@@ -45,6 +45,12 @@ type CityData = {
   locationId?: string
   rainyMonths: number[]
   touristSpot: SpotData[]
+  guideUrl?: TravelItem[]
+}
+
+interface TravelItem {
+  text: string
+  url: string
 }
 
 export type { CountryDate, CityData, SpotData }
